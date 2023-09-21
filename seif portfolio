@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your Name - Portfolio</title>
+    <!-- Add your CSS file(s) here -->
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div id="app"></div>
+    <script type="module" src="main.vue"></script>
+	<script type="module" src="app.vue"></script>
+	<script type="module" src="home.vue"></script>
+
+
+    <!-- Header Section -->
+    <header>
+        <nav>
+            <ul>
+                <li><a href="#about">About</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+
+
+    </header>
+
+    <!-- About Section -->
+    <section id="about">
+        <h1>Seif Motawi</h1>
+        <p>Welcome to my portfolio website. A Global IT Support Analyst for Laithwaites Wine.</p>
+    </section>
+
+    <!-- resume Section -->
+    <section id="">
+        <h2>Resume</h2>
+        <div class="resume">
+            <h3>Profile Overview</h3>
+            <p>Global IT support Analyst for an international company based in UK. The only point of contact for AU/NZ, supporting over 220 staff members. Responsible for managing the helpdesk team, ordering and the maintain of assets and asset logs, and the deployment of staff working stations. Managing the imaging of assets and approving the issuing of the equipment to users. Responsible for creating, deleting, disabling users in AD, and assigning group policies when required. Making sure that all tickets are responded to in a timely manner and making sure that tickets are routed to the correct department within Jira.</p>
+        </div>
+        <div class="resume">
+            <h3>Laithwaites Wines January 2022 - Present</h3>
+            <p>Global IT Support Analyst 
+• Answer the Service Desk phone, emails and walks ups.
+• Accurately log all faults and requests onto the call management system.
+• Actively monitor and progress all incidents and service requests to ensure resolution within SLA.
+• Complete local Service Desk requirements providing support for the users across the local business
+• Complete daily services check & maintain backup are completed.
+• Support Call centre technologies & work with 3rd party support partners.
+• Complete Service Desk communications to business and internal IT teams for incidents.
+• Ensure appropriate escalation, co-ordination, conferencing and resource for critical and major incidents.
+• Coordinate with the business PC moves and similar projects.
+• Monitor critical and essential systems using the monitoring tools provided.
+• Effectively resolve issues and calls raised or allocate to an appropriate third line resource.
+• Monitor server and UPS health, network and firewalls.
+• Set up remote access and provide documentation and User demonstration.
+• Maintain local procedures and the service desk resource rota and on-call schedule.
+• Maintain training documents/media and knowledgebase documentation for business and internal teams.
+• Support and configure printers, fax machines etc.
+• Windows & Mac deployment.
+• Carry out other tasks as agreed by the Service Desk Manager.</p>
+        </div>
+        </div class="resume">
+            <h3>Tonic Media Network  July 2021 – January 2022</h3>
+            <p>IT Helpdesk – L1/L2 Support
+• Management of customer enquiries via CRM, telephone & email.
+• Appropriate escalation of enquiries.
+• Proactive offline service calls to customers.
+• Complaint management and issue resolution.
+• Providing technical support and installation at customer sites
+• Providing technical support and quality checks to contract installation and service personnel in the field via phone and email.
+• Assist staff in the office with resolution of internal IT issues, when necessary.
+• Maintenance, preparation and cloning of media players, computers, and other equipment.
+• Other ancillary IT-related activities, as required by your line manager or the Technology and Support Desk Manager.
+• Following current established processes to ensure accurate data recording.
+• Reporting of processes and activities. • Ensuring client information is captured correctly.
+• Create and modify user documentation as necessary.</p>
+        </div>
+		</div class="resume">
+            <h3>Innovation Philosophy Pty Level 1 Support December 2020 – July 2021</h3>
+            <p>Service Desk – Level 1 Support
+• Installing and configuring computer hardware, software, systems, networks, printers, and scanners.
+• Monitoring and maintaining computer systems and networks.
+• Responding in a timely manner to service issues and requests.
+• Providing technical support across the company (this may be in person or over the phone).
+• Setting up accounts for new users.
+• Repairing and replacing equipment as necessary.
+• Testing new technology.</p>
+		</div>
+		</div class="resume">
+            <h3>Australia Post  November 2018 – March 2021</h3>
+            <p>National Operation Support
+• Monitoring alarm system through integriti and responding to alarms accordingly.
+• Answering phone calls and assisting staff members or contractors with safety concerns and any access information that they may require.
+• Reviewing CCTV footages and saving them to be reviewed by the appropriate department.
+• Creating profiles and access to staff across the nation.
+• Trouble shooting and/or escalating the call to the technical teams.
+• Logging jobs into the ticketing system
+• Receiving emails from clients and responding accordingly in a timely and professional manner.</p>
+        </div>
+        <!-- Add more resume items as needed -->
+    </section>
+
+    <!-- Contact Section -->
+    <section id="contact">
+        <h2>Contact</h2>
+        <p>You can reach me at <a href="mailto:your@email.com">seif.motawi92@hotmail.com</a>.</p>
+    </section>
+
+    <!-- Footer Section -->
+    <footer>
+        <p>&copy; 2023 Seif Motawi</p>
+    </footer>
+    <script src="https://cdn.jsdelivr.net/npm/vue@3.0.11/dist/vue.global.prod.js"></script>
+
+
+</body>
+</html>
